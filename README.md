@@ -1,8 +1,10 @@
- ### Hi there 👋 my name is [Max Petrov](https://www.linkedin.com/in/maxxpetrov/), I am a Software QA Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=30&duration=1500&pause=1000&color=F78613&background=6ECF4200&center=true&multiline=true&width=500&height=120&lines=HI+THERE!;MY+NAME+IS+MAX;I'M+QA+AUTOMATION+ENGINEER" alt="Typing SVG" /></a> 
+
 
  
  ⚛️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile   and Waterfall and Scaled Agile Framework (SAFe).
+ 
+ 
  
 -  🖱️ Actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project.
 -  🥇  Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End. 
@@ -17,7 +19,7 @@
  
  
  <a href="https://https://www.linkedin.com/in/maxxpetrov//">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/maxxpetrov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
   
   </a>
@@ -33,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="55"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" title="Firefox" alt="Firefox" width="55"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="55"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55"/>&nbsp; 
@@ -47,11 +50,18 @@
   Git<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   Allure<img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="45"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/javascript.gif" title="JS" alt="JS" width="60"/>
+
+
     
   
   
   
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://github.com/VladSuskiy/VladSuskiy/blob/main/Images/bug-acadgild-bug.gif">
+
 
   
   
