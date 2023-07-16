@@ -19,7 +19,6 @@
  
  
  <a href="https://https://www.linkedin.com/in/maxxpetrov//">
-  <img src="https://img.shields.io/badge/maxxpetrov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
   
   </a>
